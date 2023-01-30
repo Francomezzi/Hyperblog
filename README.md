@@ -6,5 +6,7 @@ En este curso se ve de todo:
 -Todos los comando de Git.
 -El flujo de trabajo en Github.
 -Algunos trucos para mejorar nuestro desempeño.
+-creado por franquex
+-Soy un peda
 
 Este es un readme de practica a si que no se lo tomen en serio.
