@@ -9,5 +9,6 @@ En este curso se ve de todo:
 -creado por franquex
 -Soy un peda.
 -Incluye ejemplos
+tarado
 
 Este es un readme de practica a si que no se lo tomen en serio.
