@@ -7,6 +7,7 @@ En este curso se ve de todo:
 -El flujo de trabajo en Github.
 -Algunos trucos para mejorar nuestro desempeño.
 -creado por franquex
--Soy un peda
+-Soy un peda.
+-Incluye ejemplos
 
 Este es un readme de practica a si que no se lo tomen en serio.
